@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper :[jouw naam]
+gamedeveloper :Roos de Boer
 
 ### Korte omschrijving van de game
 ...
